@@ -1,4 +1,4 @@
-var map = L.map('map').setView([37.7, -122.4], 10);
+var map = L.map('mapid').setView([37.7, -122.4], 10);
  
 // load a tile layer
 
